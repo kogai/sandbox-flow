@@ -1,0 +1,17 @@
+{
+  "name": "sandbox-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flow-bin": "0.52",
+    "immutable": "^3.8.1",
+    "react-apollo": "^1.4.15"
+  }
+}
